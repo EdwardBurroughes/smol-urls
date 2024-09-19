@@ -1,0 +1,11 @@
+.idea/
+.DS_Store
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore other common files
+*.log
+*.env
+*.venv
